@@ -2,14 +2,46 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://dmgerman.github.io/socialseng/blog/archives/</loc>
-        <lastmod>2014-06-02T06:11:49+05:30</lastmod>
+        <lastmod>2014-06-02T06:39:19+05:30</lastmod>
     </url>
     <url>
         <loc>http://dmgerman.github.io/socialseng/</loc>
-        <lastmod>2014-06-02T06:11:49+05:30</lastmod>
+        <lastmod>2014-06-02T06:39:19+05:30</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://dmgerman.github.io/socialseng/javascripts/libs/bootstrap-3.0.0/components.html
+        </loc>
+        <lastmod>2014-06-02T06:39:19+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://dmgerman.github.io/socialseng/javascripts/libs/bootstrap-3.0.0/css.html</loc>
+        <lastmod>2014-06-02T06:39:19+05:30</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://dmgerman.github.io/socialseng/javascripts/libs/bootstrap-3.0.0/customize.html
+        </loc>
+        <lastmod>2014-06-02T06:39:19+05:30</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://dmgerman.github.io/socialseng/javascripts/libs/bootstrap-3.0.0/getting-started.html
+        </loc>
+        <lastmod>2014-06-02T06:39:19+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://dmgerman.github.io/socialseng/javascripts/libs/bootstrap-3.0.0/</loc>
+        <lastmod>2014-06-02T06:39:19+05:30</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://dmgerman.github.io/socialseng/javascripts/libs/bootstrap-3.0.0/javascript.html
+        </loc>
+        <lastmod>2014-06-02T06:39:19+05:30</lastmod>
     </url>
     <url>
         <loc>http://dmgerman.github.io/socialseng/robots.txt</loc>
-        <lastmod>2014-06-02T06:11:49+05:30</lastmod>
+        <lastmod>2014-06-02T06:39:19+05:30</lastmod>
     </url>
 </urlset>
